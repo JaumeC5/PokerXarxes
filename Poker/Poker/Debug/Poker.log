@@ -1,3 +1,4 @@
 ﻿  Poker.cpp
-d:\jaume\uni\github\pokerxarxes\poker\poker\poker.cpp(174): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+d:\jaume\uni\github\pokerxarxes\poker\poker\poker.cpp(189): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+d:\jaume\uni\github\pokerxarxes\poker\poker\poker.cpp(214): warning C4101: 'cardNum2': variable local sin referencia
   Poker.vcxproj -> D:\Jaume\Uni\Github\PokerXarxes\Poker\Debug\Poker.exe
